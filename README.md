@@ -1,5 +1,4 @@
-# Free AIML Files
-Free AIML Files from Mitsuku Creator Square Bear a.k.a. Steve Worswick
+Few AIML Files created for Pandorabots
 
 ### 20q.aiml
 This AIML allows your bot to play 20 questions with your users. The bot thinks of an object, and the user asks 20 yes or no questions to try and determine what it is. However, it's a trick because the bot randomly says yes or no until the user gives up! It's just a bit of fun, some of the user's responses are pretty funny once they realise what's happening.
